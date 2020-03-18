@@ -44,10 +44,10 @@ class CgnsConan(ConanFile):
                        "enable_parallel": False,
                        "enable_tests": True,
                        "use_shared": False,
-                       "hdf5_build_shared": [True, False],
-                       "hdf5_need_mpi": [True, False],
-                       "hdf5_need_zlib": [True, False],
-                       "hdf5_need_szip": [True, False]
+                       "hdf5_build_shared": True,
+                       "hdf5_need_mpi": False,
+                       "hdf5_need_zlib": False,
+                       "hdf5_need_szip": False
                        }
 
     @property
