@@ -1,0 +1,7 @@
+versions:
+  "v4.1.1":
+    url: https://github.com/CGNS/CGNS/archive/v4.1.1.zip
+    sha256: 3db2f22f11223e9f0bd9f7a369f68415671a6a42
+  "v3.4.1":
+    url: https://github.com/CGNS/CGNS/archive/v3.4.1.zip
+    sha256: e6ecdddcf408378825f7a362859d0dd62dd64d55
